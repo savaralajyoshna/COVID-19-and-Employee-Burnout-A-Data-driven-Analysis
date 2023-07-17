@@ -1,9 +1,9 @@
 # COVID-19-and-Employee-Burnout-A-Data-driven-Analysis
 
-Project Title: Employee Burnout Analysis during the COVID-19 Pandemic
+Project Title: COVID-19 and Employee Burnout: A Data-driven Analysis
 
 Overview:
-This project focuses on analyzing the impact of the COVID-19 pandemic on employee burnout, particularly within the IT sector. The objective is to gain insights into the prevalence of burnout, understand contributing factors, and develop strategies to mitigate its occurrence. The analysis utilizes openly available data from Kaggle, which includes employee-related attributes such as ID, date of joining, gender, company type, WFH availability, designation, resource allocation, mental fatigue score, and burn rate.
+This project focuses on analyzing the impact of the COVID-19 pandemic on employee burnout, particularly within the IT sector. The objective is to gain insights into the prevalence of burnout, understand contributing factors, and develop strategies to mitigate its occurrence. The analysis utilizes openly available data from Kaggle, which includes employee-related attributes such as ID, date of joining, gender, company type, WFH availability, designation, resource allocation, mental fatigue score, and burn rate.Link to the dataset https://www.kaggle.com/datasets/blurredmachine/are-your-employees-burning-out .
 
 Key Features:
 1. Data Analysis: The project involves exploratory data analysis, visualizations, and statistical techniques to uncover patterns, correlations, and trends related to burnout.
